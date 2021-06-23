@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> berkeley_markets.num_rows == 3
+          >>> SB_markets.num_rows == 5
           True
           """,
           'hidden': False,
@@ -14,7 +14,7 @@ test = {
         },
         {
           'code': r"""
-          >>> list(berkeley_markets.column('city')) == ['Berkeley', 'Berkeley', 'Berkeley']
+          >>> list(SB_markets.column('city')) == ['Santa Barbara', 'Santa Barbara', 'Santa Barbara', 'Santa Barbara', 'Santa Barbara']
           True
           """,
           'hidden': False,
