@@ -1,6 +1,6 @@
 # DataScienceForAll
 Materials for CS118/MATH118 SBCC:
-This repo contains the publicly available materials that are used in the Data Science for All course (CS/MATH 118) during the Fall 2021 semester.
+This repo contains the publicly available materials that are used in the Data Science for All course (CS/MATH 118) and will be used as the master repo.
 This includes: homeworks, labs, and notebooks used in lecture.
 
 The contents of this repository are licensed for reuse under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
