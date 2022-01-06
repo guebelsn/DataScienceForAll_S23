@@ -9,16 +9,16 @@ test = {   'name': 'q1_4',
                                        'hidden': False,
                                        'locked': False},
                                    {   'code': '>>> # Number of rows should be '
-                                               '46;\n'
+                                               '49;\n'
                                                '>>> '
                                                'california_burritos.num_rows '
-                                               '== 46\n'
+                                               '== 49\n'
                                                'True',
                                        'hidden': False,
                                        'locked': False},
                                    {   'code': '>>> '
                                                'california_burritos.take(40).column(0).item(0) '
-                                               "== 'Taco Stand Encinitas'\n"
+                                               "== 'Sotos Mexican Food'\n"
                                                'True',
                                        'hidden': False,
                                        'locked': False}],
