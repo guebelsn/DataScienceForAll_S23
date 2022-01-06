@@ -15,7 +15,7 @@ test = {
         {
           'code': r"""
           >>> [most_common('Genre', close_movies.take(np.arange(4, k, -1))) for k in range(3, -1, -1)]
-          ['comedy', 'comedy', 'comedy', 'thriller']
+          ['comedy', 'comedy', 'comedy', 'comedy']
           """,
           'hidden': False,
           'locked': False
