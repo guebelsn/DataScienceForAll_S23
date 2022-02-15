@@ -15,8 +15,8 @@ test = {
         },
         {
           'code': r"""
-          >>> # Number of rows should be 49;
-          >>> california_burritos.num_rows == 49
+          >>> # Number of rows should be 46;
+          >>> california_burritos.num_rows == 46
           True
           """,
           'hidden': False,
